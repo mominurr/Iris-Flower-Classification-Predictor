@@ -6,9 +6,10 @@ This project focuses on building a predictive model for classifying Iris flowers
 
 The goal of this project is to develop a robust machine learning model that can accurately classify Iris flowers into their respective species, namely:
 
-      * Iris-setosa
-      * Iris-versicolor
-      * Iris-virginica
+ * Iris-setosa
+ * Iris-versicolor
+ * Iris-virginica
+   
 We provide Python code for training the model, making predictions, and evaluating the model's performance using various metrics.
 
 ## Functions and Features
