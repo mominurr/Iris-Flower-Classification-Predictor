@@ -69,9 +69,11 @@ To use this project, follow these steps:
 1. Ensure you have Python installed on your machine.
 2. Clone the project repository to your local machine:
 
-   git clone https://github.com/mominurr/Iris-Flower-Classification-Predictor.git
-   cd Iris-Flower-Classification-Predictor
-   python flower_classifications_predictor.py
+     git clone https://github.com/mominurr/Iris-Flower-Classification-Predictor.git
+   
+     cd Iris-Flower-Classification-Predictor
+   
+     python flower_classifications_predictor.py
 
 ##Author:
 [Mominur Rahman](https://github.com/mominurr)
