@@ -23,24 +23,24 @@ The function performs the following steps in its workflow:
 
 1.Data Loading and Cleaning:
 
-      * Load the Iris flower dataset using the Pandas library.
-      * Perform data cleaning to handle missing values, duplicates, or any other data quality issues.
+* Load the Iris flower dataset using the Pandas library.
+* Perform data cleaning to handle missing values, duplicates, or any other data quality issues.
 
 2.Data Visualization:
 
-      * Utilize Matplotlib and Seaborn to create data visualizations, including scatter plots and pair plots. These visualizations help users understand the relationships between different features and the distribution of data points.
+* Utilize Matplotlib and Seaborn to create data visualizations, including scatter plots and pair plots. These visualizations help users understand the relationships between different features and the distribution of data points.
 
 3.Model Training:
 
-      * Train a machine learning classifier on the cleaned dataset. The classifier's goal is to predict the species of Iris flowers based on sepal and petal measurements.
+* Train a machine learning classifier on the cleaned dataset. The classifier's goal is to predict the species of Iris flowers based on sepal and petal measurements.
 
 4.Making Predictions:
 
-      * Use the trained classifier to make predictions on new data. The input parameters for prediction are SepalLengthCm, SepalWidthCm, PetalLengthCm, and PetalWidthCm.
+* Use the trained classifier to make predictions on new data. The input parameters for prediction are SepalLengthCm, SepalWidthCm, PetalLengthCm, and PetalWidthCm.
 
 4.Model Evaluation:
 
-      * Evaluate the performance of the trained model using accuracy.
+* Evaluate the performance of the trained model using accuracy.
 
 
 ## Dataset
@@ -59,7 +59,6 @@ Seaborn (for visualization)
 
 You can install these dependencies using pip:
 
-      ```bash
       pip install numpy pandas scikit-learn matplotlib seaborn
 
 
@@ -70,7 +69,6 @@ To use this project, follow these steps:
 1. Ensure you have Python installed on your machine.
 2. Clone the project repository to your local machine:
 
-   ```bash
    git clone https://github.com/mominurr/Iris-Flower-Classification-Predictor.git
    cd Iris-Flower-Classification-Predictor
    python flower_classifications_predictor.py
