@@ -10,7 +10,7 @@ The goal of this project is to develop a robust machine learning model that can 
  * Iris-versicolor
  * Iris-virginica
    
-We provide Python code for training the model, making predictions, and evaluating the model's performance using various metrics.
+I provide Python code for training the model, making predictions, and evaluating the model's performance using various metrics.
 
 ## Functions and Features
 
