@@ -66,11 +66,6 @@ def Classification_for_Flower_Predictions(SepalLengthCm,SepalWidthCm,PetalLength
     
 
 
-
-
-
-
-
 if __name__ == "__main__":
 
     # Make predictions. Let us predict the species of a flower with SepalLengthCm = 5.4, SepalWidthCm = 2.6, PetalLengthCm = 4.1, PetalWidthCm = 1.3
